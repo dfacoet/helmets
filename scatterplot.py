@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df = pd.read_csv('data.txt', index_col=0)
+df = pd.read_csv('data.txt', index_col=0, comment='#')
 
 fig, ax = plt.subplots()
 df.plot.scatter(x=1, y=2, ax=ax, s=40)

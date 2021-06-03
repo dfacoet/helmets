@@ -1,3 +1,4 @@
+#data extracted graphically from ./data.png
 ,Country,Helmet wearing rate,Deaths per billion km cycled
 0,US,55.16129032258064,43.91129032258065
 1,FI,44.75806451612903,19.959677419354847
